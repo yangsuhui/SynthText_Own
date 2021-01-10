@@ -1,3 +1,5 @@
+# 具体使用说明详见[CSDN BLOG](https://blog.csdn.net/yshtjdx/article/details/112425866)
+
 ## SynthText官方示例生成效果
 
 https://github.com/ankush-me/SynthText
